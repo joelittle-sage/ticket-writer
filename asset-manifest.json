@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/ticket-writer/static/css/main.905d83af.css",
-    "main.js": "/ticket-writer/static/js/main.72a78908.js",
+    "main.js": "/ticket-writer/static/js/main.dbff6620.js",
     "static/media/Joe_Text-Bold_Italic.woff": "/ticket-writer/static/media/Joe_Text-Bold_Italic.910d793d5846518c56b3.woff",
     "static/media/Joe_Text-Bold.woff": "/ticket-writer/static/media/Joe_Text-Bold.a9929467f923413f9418.woff",
     "static/media/Joe_Text-Regular.woff": "/ticket-writer/static/media/Joe_Text-Regular.e2e265f576800684978b.woff",
     "static/media/Sage_Logo_Brilliant_Green_RGB.svg": "/ticket-writer/static/media/Sage_Logo_Brilliant_Green_RGB.060bcc5bcd50112ccff1bf7d26e71abb.svg",
     "index.html": "/ticket-writer/index.html",
     "main.905d83af.css.map": "/ticket-writer/static/css/main.905d83af.css.map",
-    "main.72a78908.js.map": "/ticket-writer/static/js/main.72a78908.js.map"
+    "main.dbff6620.js.map": "/ticket-writer/static/js/main.dbff6620.js.map"
   },
   "entrypoints": [
     "static/css/main.905d83af.css",
-    "static/js/main.72a78908.js"
+    "static/js/main.dbff6620.js"
   ]
 }
